@@ -1,2 +1,2 @@
-# -Write-a-program-that-removes-all-duplicates-from-this-list.
-Suppose a list has 20 numbers. Write a program that removes all duplicates from this list.
+# Suppose-a-list-contains-20-integers-generated-randomly.
+ Suppose a list contains 20 integers generated randomly. Receive a number from the keyboard and report position of all occurrences of this number in the list.
